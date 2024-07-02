@@ -1,5 +1,12 @@
 # Hi there, I'm kuezese! 👋
 
+## 📊 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="" style="height: 170px;" align="center">
+  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api/top-langs/?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="" style="height: 170px;" align="center">
+</div>
+
 ## 🔗 Connect with me
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuezese)
@@ -35,13 +42,6 @@
 ### Virtualization
 ![VMWare ESXi](https://img.shields.io/badge/VMWare_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-4B4B4B?style=for-the-badge&logo=proxmox&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="" style="height: 170px;" align="center">
-  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api/top-langs/?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="" style="height: 170px;" align="center">
-</div>
 
 ## 🏆 GitHub Trophies
 
