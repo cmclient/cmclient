@@ -1,10 +1,5 @@
 # Hi there, I'm kuezese! 👋
 
-<div>
-  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="" style="height: 170px;" align="center">
-  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api/top-langs/?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="" style="height: 170px;" align="center">
-</div>
-
 ## 🔗 Connect with me
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuezese)
