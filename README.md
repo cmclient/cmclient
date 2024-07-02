@@ -9,7 +9,7 @@
 
 ## 🔗 Connect with me
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuezese)
+[![Discord](https://img.shields.io/badge/Discord%20%40kuezese-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuezese)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@cmclient.pl)
 
 ## 🚀 Tools & Technologies
