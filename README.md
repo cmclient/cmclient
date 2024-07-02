@@ -4,7 +4,7 @@
 
 <div>
   <img src="https://github-readme-stats-blond-nine-67.vercel.app/api?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="" style="height: 200px;" align="center">
-  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api/top-langs/?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact" alt="" style="height: 200px;" align="center">
+  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api/top-langs/?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&size_weight=0.75&count_weight=0.25&langs_count=8&layout=compact" alt="" style="height: 200px;" align="center">
 </div>
 
 ## 🔗 Connect with me
