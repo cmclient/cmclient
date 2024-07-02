@@ -62,7 +62,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cmclient&theme=radical&no-bg=true&no-frame=true&column=7&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cmclient&theme=discord&no-bg=true&no-frame=true&column=7&row=1)
 
 ## 📚 Projects & Contributions
 
