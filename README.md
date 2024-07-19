@@ -63,21 +63,3 @@
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cmclient&theme=discord&no-bg=true&no-frame=true&column=7&row=1)
-
-## 📚 Projects & Contributions
-
-- [CMCLIENT](https://cmclient.pl): A Minecraft client made for PvP
-
-## 🌱 Hobbies & Interests
-
-- 👨‍💻 Programming
-- 🎵 Music
-- 🛠️ Electronics
-- 🌐 Networking
-- 🎮 Gaming
-- 🎥 Watching Movies
-
-## 💬 Languages
-
-- Polish: Native
-- English: C1
