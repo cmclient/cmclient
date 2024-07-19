@@ -11,11 +11,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cmclient&theme=discord&no-bg=true&no-frame=true&column=7&row=1)
 
-## 🔗 Connect with me
-
-[![Discord](https://img.shields.io/badge/Discord%20%40kuezese-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuezese)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@cmclient.pl)
-
 ## 🚀 Tools & Technologies
 
 ### Languages
@@ -63,3 +58,9 @@
 
 ### Web Servers
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+## 🔗 Connect with me
+
+[![Discord](https://img.shields.io/badge/Discord%20%40kuezese-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuezese)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@cmclient.pl)
+
