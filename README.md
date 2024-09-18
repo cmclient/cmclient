@@ -3,8 +3,8 @@
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="" style="height: 220px;" align="center">
-  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api/top-langs/?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&langs_count=10&layout=compact" alt="" style="height: 220px;" align="center">
+  <img src="https://github-readme-stats-sand-two-32.vercel.app/api?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="" style="height: 220px;" align="center">
+  <img src="https://github-readme-stats-sand-two-32.vercel.app/api/top-langs/?username=cmclient&theme=chartreuse-dark&show_icons=true&hide_border=true&langs_count=10&layout=compact" alt="" style="height: 220px;" align="center">
 </div>
 
 ## 🏆 GitHub Trophies
@@ -60,6 +60,6 @@
 
 ## 🔗 Connect with me
 
-[![Discord](https://img.shields.io/badge/Discord%20%40kuezese-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuezese)
+[![Discord](https://img.shields.io/badge/Discord%20%40kuezese-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/827272823630331904)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@cmclient.pl)
 
