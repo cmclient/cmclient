@@ -55,5 +55,4 @@
 ![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🔗 Connect with me
-[[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@cmclient.pl)](https://img.shields.io/badge/Email-0052FF?style=for-the-badge&logo=protonmail&logoColor=white)
-
+[![Email](https://img.shields.io/badge/Email-0052FF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:support@cmclient.pl)
