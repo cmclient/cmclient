@@ -1,4 +1,4 @@
-# Hi there, I'm kuezese! 👋
+# 👋 Hi there! 
 
 ## 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Email-0052FF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:support@cmclient.pl)
