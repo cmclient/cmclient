@@ -2,6 +2,7 @@
 
 ## 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Email-0052FF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:support@cmclient.pl)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/kuezese)
 
 ## 📊 GitHub Stats
 
